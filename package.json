@@ -1,0 +1,24 @@
+{
+  "name": "jsdelivr-cdn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitofaman/jsdelivr-cdn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitofaman/jsdelivr-cdn/issues"
+  },
+  "homepage": "https://github.com/gitofaman/jsdelivr-cdn#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}

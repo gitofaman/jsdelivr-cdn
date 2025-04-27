@@ -1,5 +1,5 @@
 //navbar animation script
-// alert("WORKIN")
+alert("WORKIN")
 $(document).ready(function(){
     if ($(window).width() < 991) {
         var navOpen = false;

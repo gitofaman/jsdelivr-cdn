@@ -93,7 +93,7 @@ $(document).ready(function(){
             opacity: 1,
             scrollTrigger: {
                 trigger: main,
-                start: "top bottom",
+                start: "top 35%",
             },
             duration: 0.1,
             onComplete: function() {
